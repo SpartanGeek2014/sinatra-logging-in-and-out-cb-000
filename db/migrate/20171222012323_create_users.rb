@@ -6,5 +6,5 @@ class CreateUsers < ActiveRecord::Migration
       t.decimal :balance
     end
   end
- 
+
 end
