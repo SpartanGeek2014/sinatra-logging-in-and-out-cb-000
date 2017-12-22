@@ -35,4 +35,3 @@ end
     redirect to '/'
     end
  end
-
